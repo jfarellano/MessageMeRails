@@ -1,0 +1,2 @@
+class UsersChat < ApplicationRecord
+end
